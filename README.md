@@ -56,3 +56,8 @@ Dinossauro alcança o personagem.
 Etapa_7: 7. Pontuação por Distância
 
 A pontuação aumenta conforme o tempo de sobrevivência.
+
+Resumo do jogo:
+  O jogo Jurassic run consiste em um personagem que esta na era jurassica e tem que fugir de T-Rex faminto. E um jogo sem fim, ou seja, o personagem corre comtinuamente pelo caminho, saltando obstaculos, escolhendo caminhos, subindo arvores e pulando de galho em galho. com um curto tempo de jogo a velocidade do personagem vai aumentando e com ela também os obstaculos. dentro do jogo tera as chamadas "Dino moedas" (moedas que o personagem ira coletar ao longo do caminho), que ira servir para "Upar" o personagem e até mesmo trocar de personagem.
+  O gênero do jogo será de corrida e estara disponivel para dipositivos "Android e Pc" com o publico alvo sendo as pessoas em geral acima de 12 anos.
+  Quando o dinossauro pegar o personagem(caso ele bata num obstáculo ou caia) é Gamer Over!
