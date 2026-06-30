@@ -312,6 +312,8 @@ Cada personagem possui uma habilidade passiva exclusiva.
 
 22. Objetivo Final
 
+Sobreviver o máximo possível enquanto foge do T-Rex, completar missões, coletar Dino Moedas, melhorar equipamentos, desbloquear novos personagens e estabelecer recordes cada vez maiores em uma aventura jurássica cheia de desafios.
+
 23. Paleta de Cores
 
 A identidade visual de Jurassic Run será inspirada em ambientes naturais da Era Jurássica, utilizando cores vibrantes para destacar o cenário e elementos importantes do jogo.
