@@ -312,4 +312,165 @@ Cada personagem possui uma habilidade passiva exclusiva.
 
 22. Objetivo Final
 
+23. Paleta de Cores
+
+A identidade visual de Jurassic Run será inspirada em ambientes naturais da Era Jurássica, utilizando cores vibrantes para destacar o cenário e elementos importantes do jogo.
 Sobreviver o máximo possível enquanto foge do T-Rex, completar missões, coletar Dino Moedas, melhorar equipamentos, desbloquear novos personagens e estabelecer recordes cada vez maiores em uma aventura jurássica cheia de desafios.
+
+| Elemento              | Cor               | Código  |
+| --------------------- | ----------------- | ------- |
+| Verde da Selva        | 🌿 Verde Escuro   | #2E7D32 |
+| Vegetação Clara       | 🌱 Verde Claro    | #66BB6A |
+| Terra                 | 🟫 Marrom         | #8D6E63 |
+| Rochas                | ⬜ Cinza Pedra     | #757575 |
+| Madeira               | 🟤 Marrom Escuro  | #5D4037 |
+| Céu                   | 🔵 Azul Claro     | #64B5F6 |
+| Água                  | 💧 Azul Turquesa  | #26C6DA |
+| Lava (quando existir) | 🔴 Vermelho       | #E53935 |
+| Ouro das Dino Moedas  | 🟡 Dourado        | #FFD54F |
+| Interface             | ⚪ Branco          | #FFFFFF |
+| Alertas               | 🔴 Vermelho Forte | #D50000 |
+
+Paleta Secundária
+Verde Musgo
+Verde Limão
+Bege
+Laranja Queimado
+Cinza Escuro
+Preto para sombras
+
+A iluminação deverá variar conforme o ambiente, mantendo uma atmosfera vibrante e aventureira.
+
+24. Estilo Gráfico
+Estilo Geral
+
+Jurassic Run utilizará gráficos em 3D estilizado (Stylized Low Poly), priorizando desempenho, boa leitura visual e um visual atrativo para jogadores casuais.
+
+O jogo será apresentado em Terceira Pessoa (Visão Traseira), com a câmera posicionada atrás do personagem, acompanhando sua corrida ao longo do percurso.
+
+Características Visuais
+Modelos Low Poly com poucos polígonos.
+Texturas simples e coloridas.
+Iluminação dinâmica.
+Vegetação abundante.
+Cores vivas e saturadas.
+Sombras suaves.
+Efeitos de partículas (poeira, folhas, respingos de água e fumaça).
+Câmera
+Perspectiva em terceira pessoa.
+Câmera levemente elevada atrás do personagem.
+Movimento suave acompanhando Kan.
+Pequeno efeito de inclinação durante curvas ou mudanças de direção.
+Campo de visão (FOV) entre 60° e 75°.
+Personagens
+
+Os personagens terão aparência caricata e amigável.
+
+Características:
+
+Cabeça levemente maior.
+Expressões simples.
+Animações exageradas.
+Movimentos fluidos.
+Roupa colorida.
+Equipamentos facilmente identificáveis.
+Dinossauros
+
+Os dinossauros seguirão o mesmo estilo artístico.
+
+Características:
+
+Visual estilizado.
+Proporções exageradas.
+Animações expressivas.
+Poucos detalhes realistas.
+Cores marcantes.
+
+O T-Rex deverá transmitir sensação de perigo sem perder o estilo cartunesco do jogo.
+
+Cenários
+
+Os cenários serão compostos por:
+
+Árvores gigantes.
+Samambaias.
+Palmeiras pré-históricas.
+Rochas.
+Cachoeiras.
+Rios.
+Penhascos.
+Ruínas antigas.
+Vulcões ao fundo.
+
+Os ambientes terão grande profundidade utilizando névoa leve para criar sensação de distância.
+
+Interface (UI)
+
+A interface seguirá um estilo aventureiro inspirado em exploração.
+
+Características:
+
+Botões arredondados.
+Ícones grandes.
+Fonte robusta e legível.
+Molduras inspiradas em madeira e pedra.
+Cores vibrantes.
+Barras de progresso com visual de cipós ou ossos.
+25. Referências Visuais
+
+A direção de arte de Jurassic Run será inspirada em jogos de corrida infinita e aventuras em ambientes naturais, combinando um estilo colorido, acessível e com boa performance.
+
+Referências de Gameplay
+Temple Run
+Corrida infinita.
+Obstáculos variados.
+Perseguição constante.
+Progressão de dificuldade.
+Subway Surfers
+Movimentos fluidos.
+Missões.
+Sistema de personagens.
+Coleta de moedas.
+Crash Bandicoot
+Plataforma em terceira pessoa.
+Estilo cartunesco.
+Ambientes coloridos.
+Kao the Kangaroo
+Visual 3D estilizado.
+Cenários vibrantes.
+Personagens expressivos.
+Referências de Ambientação
+Jurassic Park
+Selva densa.
+Clima de sobrevivência.
+Dinossauros imponentes.
+Jurassic World
+Inspiração para os dinossauros.
+Ambientes tropicais.
+Sensação constante de perseguição.
+Referências de Arte
+
+O estilo artístico buscará uma combinação entre:
+
+Low Poly estilizado.
+Cartunesco moderno.
+Cores vibrantes.
+Iluminação quente.
+Vegetação abundante.
+Modelos simples com boa legibilidade.
+Interface limpa e intuitiva.
+Identidade Visual
+
+A identidade de Jurassic Run deve transmitir:
+
+Aventura.
+Velocidade.
+Sobrevivência.
+Exploração.
+Diversão.
+Mistério.
+Natureza exuberante.
+Ação constante.
+
+O objetivo é criar um visual marcante e otimizado para Android e PC, oferecendo uma experiência fluida em terceira pessoa, com cenários ricos, personagens carismáticos e uma atmosfera jurássica envolvente.
+
