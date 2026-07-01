@@ -32,7 +32,6 @@ Unity
 
 Motivos
 Excelente suporte para jogos 2D e 3D.
-Grande comunidade.
 Muitos tutoriais gratuitos.
 Exportação para Android e PC.
 6. Menu Principal
@@ -476,3 +475,66 @@ Ação constante.
 
 O objetivo é criar um visual marcante e otimizado para Android e PC, oferecendo uma experiência fluida em terceira pessoa, com cenários ricos, personagens carismáticos e uma atmosfera jurássica envolvente.
 
+26. Linguagem de Programação
+
+O desenvolvimento de Jurassic Run será realizado utilizando a Unity como engine principal e a linguagem de programação C# (C Sharp).
+
+Linguagem
+
+C#
+
+Motivos da escolha
+Linguagem oficial da Unity.
+Alto desempenho para jogos 3D.
+Fácil organização do código através de classes e componentes.
+Grande quantidade de documentação e tutoriais.
+Excelente suporte para Android e PC.
+Facilidade na implementação de sistemas como:
+Movimento do personagem
+IA do T-Rex
+Spawn de obstáculos
+Sistema de missões
+Inventário
+Interface (UI)
+Salvamento de progresso
+27. Requisitos do Sistema
+Requisitos Mínimos (PC)
+Componente	Especificação
+Sistema Operacional	Windows 10 (64 bits)
+Processador	Intel Core i3 (4ª geração) ou AMD Ryzen 3
+Memória RAM	4 GB
+Placa de Vídeo	Intel HD Graphics 620 ou equivalente
+Armazenamento	2 GB livres
+DirectX	Versão 11
+Requisitos Recomendados (PC)
+Componente	Especificação
+Sistema Operacional	Windows 10 ou Windows 11 (64 bits)
+Processador	Intel Core i5 (8ª geração) ou AMD Ryzen 5
+Memória RAM	8 GB
+Placa de Vídeo	NVIDIA GeForce GTX 1050 / AMD Radeon RX 560 ou superior
+Armazenamento	4 GB livres (preferencialmente SSD)
+DirectX	Versão 12
+Requisitos Mínimos (Android)
+Componente	Especificação
+Sistema Operacional	Android 8.0 (Oreo) ou superior
+Processador	Quad-Core 1,8 GHz
+Memória RAM	3 GB
+Armazenamento	2 GB livres
+GPU	Adreno 506, Mali-G52 ou equivalente
+Requisitos Recomendados (Android)
+Componente	Especificação
+Sistema Operacional	Android 11 ou superior
+Processador	Octa-Core 2,2 GHz ou superior
+Memória RAM	6 GB
+Armazenamento	4 GB livres
+GPU	Adreno 640, Mali-G76 ou superior
+28. Desempenho Esperado
+
+O jogo será otimizado para proporcionar uma experiência fluida em dispositivos Android e computadores de diferentes configurações.
+
+Metas de desempenho
+PC: 60 FPS ou mais.
+Android intermediário: 60 FPS.
+Android de entrada: mínimo de 30 FPS estáveis.
+Tempo de carregamento inferior a 10 segundos na maioria dos dispositivos.
+Consumo otimizado de memória para evitar travamentos e garantir partidas longas.
