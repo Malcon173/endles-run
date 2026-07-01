@@ -60,6 +60,7 @@ No topo da tela serão exibidos:
 Quantidade de Dino Moedas
 Melhor pontuação
 Personagem selecionado
+
 7. Inventário
 
 O Inventário reúne todos os itens conquistados pelo jogador.
@@ -180,6 +181,7 @@ Selva Jurássica
 Floresta Tropical
 Área Rochosa
 Copas das Árvores
+
 11. Personagem Principal
 Nome
 
@@ -201,7 +203,9 @@ Queda
 Agachado
 Escalada
 Game Over
+
 12. Inimigo Principal
+
 T-Rex Faminto
 
 Permanece perseguindo Kan durante toda a partida.
@@ -232,6 +236,7 @@ Avançados
 Árvores caídas
 Rochas móveis
 Pequenos dinossauros atravessando o caminho
+
 14. Sistema de Spawn
 
 Um Spawner gera obstáculos automaticamente.
@@ -241,6 +246,7 @@ Características:
 Intervalos aleatórios
 Dificuldade crescente
 Obstáculos aparecem cada vez mais próximos
+
 15. Dino Moedas
 
 Moeda principal do jogo.
@@ -251,6 +257,7 @@ Comprar itens
 Melhorar atributos
 Desbloquear personagens
 Comprar cosméticos
+
 16. Progressão
 
 Com o passar do tempo:
@@ -259,6 +266,7 @@ Velocidade aumenta.
 Mais obstáculos aparecem.
 O T-Rex acelera.
 A pontuação cresce mais rapidamente.
+
 17. Sistema de Pontuação
 
 Pontuação =
@@ -275,6 +283,7 @@ O jogador perde quando:
 Colide com um obstáculo.
 Cai de uma plataforma.
 É alcançado pelo T-Rex.
+
 19. Tela de Game Over
 
 Exibe:
@@ -291,6 +300,7 @@ Jogar Novamente
 Loja
 Inventário
 Menu Principal
+
 20. Sistema de Upgrades
 
 Melhorias disponíveis:
@@ -300,7 +310,9 @@ Maior resistência
 Aumento da coleta de moedas
 Velocidade inicial maior
 Maior duração dos itens especiais
+
 21. Personagens Desbloqueáveis
+    
 Kan Explorador
 Kan Caçador
 Sobrevivente da Selva
@@ -343,6 +355,7 @@ Preto para sombras
 A iluminação deverá variar conforme o ambiente, mantendo uma atmosfera vibrante e aventureira.
 
 24. Estilo Gráfico
+
 Estilo Geral
 
 Jurassic Run utilizará gráficos em 3D estilizado (Stylized Low Poly), priorizando desempenho, boa leitura visual e um visual atrativo para jogadores casuais.
@@ -417,6 +430,7 @@ Fonte robusta e legível.
 Molduras inspiradas em madeira e pedra.
 Cores vibrantes.
 Barras de progresso com visual de cipós ou ossos.
+
 25. Referências Visuais
 
 A direção de arte de Jurassic Run será inspirada em jogos de corrida infinita e aventuras em ambientes naturais, combinando um estilo colorido, acessível e com boa performance.
@@ -497,7 +511,9 @@ Sistema de missões
 Inventário
 Interface (UI)
 Salvamento de progresso
+
 27. Requisitos do Sistema
+    
 Requisitos Mínimos (PC)
 Componente	Especificação
 Sistema Operacional	Windows 10 (64 bits)
@@ -528,7 +544,8 @@ Processador	Octa-Core 2,2 GHz ou superior
 Memória RAM	6 GB
 Armazenamento	4 GB livres
 GPU	Adreno 640, Mali-G76 ou superior
-28. Desempenho Esperado
+
+29. Desempenho Esperado
 
 O jogo será otimizado para proporcionar uma experiência fluida em dispositivos Android e computadores de diferentes configurações.
 
