@@ -28,7 +28,7 @@ Se o T-Rex alcançá-lo, será o fim.
 
 5. Engine Escolhida
 
-Unity
+godot
 
 Motivos
 Excelente suporte para jogos 2D e 3D.
