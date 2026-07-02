@@ -495,10 +495,10 @@ O desenvolvimento de Jurassic Run será realizado utilizando a Unity como engine
 
 Linguagem
 
-C#
+python
 
 Motivos da escolha
-Linguagem oficial da Unity.
+Linguagem oficial do godot.
 Alto desempenho para jogos 3D.
 Fácil organização do código através de classes e componentes.
 Grande quantidade de documentação e tutoriais.
